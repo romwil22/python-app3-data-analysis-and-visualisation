@@ -1,2 +1,2 @@
 # python application 3
-data analysis and visuallisation with pandas and matplotlib
+data analysis and visualisation with pandas and matplotlib
